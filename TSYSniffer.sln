@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TSYSniffer", "TSYSniffer\TSYSniffer.vcxproj", "{EB0B36A1-CD1E-4189-9BE6-1617BB0A17B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0B36A1-CD1E-4189-9BE6-1617BB0A17B5}.Debug|x64.ActiveCfg = Debug|x64
+		{EB0B36A1-CD1E-4189-9BE6-1617BB0A17B5}.Debug|x64.Build.0 = Debug|x64
+		{EB0B36A1-CD1E-4189-9BE6-1617BB0A17B5}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB0B36A1-CD1E-4189-9BE6-1617BB0A17B5}.Debug|x86.Build.0 = Debug|Win32
+		{EB0B36A1-CD1E-4189-9BE6-1617BB0A17B5}.Release|x64.ActiveCfg = Release|x64
+		{EB0B36A1-CD1E-4189-9BE6-1617BB0A17B5}.Release|x64.Build.0 = Release|x64
+		{EB0B36A1-CD1E-4189-9BE6-1617BB0A17B5}.Release|x86.ActiveCfg = Release|Win32
+		{EB0B36A1-CD1E-4189-9BE6-1617BB0A17B5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB114A4-E9D8-4F4D-ACC3-42C10E28B377}
+	EndGlobalSection
+EndGlobal
